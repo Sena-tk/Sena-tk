@@ -1,8 +1,8 @@
 各種有料ソフトウェアで解析した方が簡単で正確だなと思いつつ、Rでも解析ができるようになったら楽しいな。<br>
-miceroarrayとRNA-Seqはウェットとドライ両方経験済み。<br>
+miceroarrayとRNA-Seqはウェットとドライ両方ちょっとだけ経験済み。<br>
 いまは趣味の範囲ですが、お仕事で手元にデータがあるので活かしたい。<br>
 AIも興味津々。PC組み立てるような家庭で育ち、自宅サーバー持ちの夫と結ばれるも未だITは初心者。<br>
-学歴は短大までですが現場作業経験が長い、ただのアルバイト。<br><br>
+学歴は短大までですが現場作業経験が長い、ただのアルバイトです。<br><br>
 
 While I think it’s easier and more accurate to analyze with various paid software, it would be fun if I could also analyze with R.<br>
 I have experience with both wet and dry in microarray and RNA-Seq.<br>
